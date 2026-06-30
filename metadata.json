@@ -1,0 +1,6 @@
+{
+  "name": "SwaMedia",
+  "description": "Jukwaa bora la burudani la filamu, tamthilia, na hadithi kwa Kiswahili.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

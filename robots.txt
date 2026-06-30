@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /security/
+Disallow: /storage/
+Disallow: /*.log$
+Disallow: /*.sql$
+
+Sitemap: https://www.swamedia.online/sitemap.xml
